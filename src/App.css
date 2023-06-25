@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  
+}
+
+.YearsDiv{
+ margin-left:320px;
+  justify-content: flex-end;
+  
+  width: 70px;
+}
+.Years{
+  font-size: 12px;
+}
+
+.App-header {
+  background-color:#1f1e1e;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Card {
+  background-color:#616161;
+  max-width: 400px;
+  border-radius: 12px;
+}
+
+.Aciklama{
+  font-size: 14px;
+  margin: 12px;
+}
+
+.LinkCard{
+  margin-top: 30px;
+}
+.LinkCard.Hovered{
+  size: 50px;
+}
+.SocialMedia{
+ display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin-right: 480px;
+  
+  
+  
+}

@@ -22,12 +22,7 @@ let currentDate = `${year-1998} Years Old`;
   <img style={{marginTop:42}} width={100} height={100} src={pp}></img>
 <p>Who is Behlulcan?</p>
 <article>
-<p className='Aciklama'>Behlulcan is a very passionate alligator expert. 
-Born in 1992 and never felt that way again. 
-His hobbies are useless. 
-His plans are not so useless. 
-Also flew with Turkish Airlines almost 4 times.
-Favourite Super Hero : Batman.</p>
+<p className='Aciklama'>Behlulcan is a passionate and skilled developer with 1 years of experience, specializing in .Net Core, ASP.NET, Blazor, React, React-Native and Python. He excels in crafting innovative and user-friendly solutions, delivering high-quality code for diverse projects. With a creative mindset and an eye for detail, he combines technical expertise with design principles to create seamless user experiences.</p>
 </article>
 <p style={{fontSize:10}}>See social media accounts for more</p>
 </div>

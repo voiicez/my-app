@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import pp from './spiderman.png'
+import pp from './behlul.jpeg'
 import Facebook from './Components/SocialMedia';
 
 import React from 'react';
